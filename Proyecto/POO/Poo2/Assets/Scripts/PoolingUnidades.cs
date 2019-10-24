@@ -9,6 +9,7 @@ public class PoolingUnidades : MonoBehaviour
     void Start()
     {
         GameObject unidad = GameObject.Find("Fantasma");
+        
         GameObject temp;
         Vector3 incremento = new Vector3(0, 1);
         Vector3 posicion_inicial = unidad.transform.position;
@@ -22,9 +23,4 @@ public class PoolingUnidades : MonoBehaviour
 
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
 }

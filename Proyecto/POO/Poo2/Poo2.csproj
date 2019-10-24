@@ -655,13 +655,13 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Bala.cs" />
-    <Compile Include="Assets\Counter.cs" />
-    <Compile Include="Assets\Prueba.cs" />
+    <Compile Include="Assets\Navegar.cs" />
+    <Compile Include="Assets\Scripts\Bala.cs" />
     <Compile Include="Assets\Scripts\ClickTorre.cs" />
-    <Compile Include="Assets\Scripts\GuardarPosBala.cs" />
-    <Compile Include="Assets\Scripts\Mov.cs" />
+    <Compile Include="Assets\Scripts\Counter.cs" />
+    <Compile Include="Assets\Scripts\Fantasma.cs" />
     <Compile Include="Assets\Scripts\PoolingUnidades.cs" />
+    <Compile Include="Assets\Scripts\Prueba.cs" />
     <Compile Include="Assets\Scripts\Torre.cs" />
   </ItemGroup>
   <ItemGroup>
